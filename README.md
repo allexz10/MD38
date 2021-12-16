@@ -1,4 +1,4 @@
-# MD38: Veicītis (Vue)
+# vue__fruits
 
 ## Project setup
 ```
