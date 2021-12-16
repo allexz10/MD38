@@ -1,4 +1,4 @@
-# vue__fruits
+# MD38
 
 ## Project setup
 ```
